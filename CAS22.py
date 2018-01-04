@@ -26,4 +26,3 @@ class TestCAS22_ContinuousRates(unittest.TestCase):
         self.assertEqual(actual, 0.05826890991933453)
 
 
-    
